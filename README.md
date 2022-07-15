@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GSalgadoLC
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning HTML, CSS, Python, CS50, Data Structures and Algos
+- 🌱 I’m currently learning Cloud Infrastructure, Frontend web development, Python, Data Structures and Algos
 - 💞️ I’m looking to collaborate on any
 - 📫 How to reach me ...
 
